@@ -1,6 +1,6 @@
 ![Thomas and his corgi, Winona](https://thomaseckert.dev/self.jpg)
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/t-eckert/count.svg)
 
 Hi 👋, my name is Thomas Eckert. I live in Seattle, Washington with my wife, Sophia, and our corgi, Winona.
 
