@@ -1,5 +1,7 @@
 ![Thomas and his corgi, Winona](https://thomaseckert.dev/self.jpg)
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 Hi 👋, my name is Thomas Eckert. I live in Seattle, Washington with my wife, Sophia, and our corgi, Winona.
 
 I studied physics, focusing on nuclear interactions for fusion diagnostics. Much of this work involved programming simulations in C++. I wrote a [thesis](https://www.houghton.edu/wp-content/uploads/2019/02/physics-thesis-thomas-eckert-2016.pdf) and a [paper](https://arxiv.org/pdf/1707.09375.pdf) about it.
