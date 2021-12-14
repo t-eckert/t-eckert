@@ -1,4 +1,4 @@
-Hi 👋, my name is Thomas Eckert (he/him). I live outside of Washington D.C. with my wife, Sophia, and our corgi, Winona.
+Hi my name is Thomas Eckert (he/him). I live outside of Washington D.C. with my wife, Sophia, and our corgi, Winona.
 
 I work on Consul integration with Kubernetes at HashiCorp. Before working at HashiCorp, I worked on Azure at Microsoft. In school, I studied physics, focusing on diagnostics for nuclear fusion in my Masters.
 
